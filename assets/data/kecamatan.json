@@ -1,0 +1,10 @@
+{
+    "Lanskap ": {
+        "image": "assets/images/Lanskap.png",
+        "kecamatan": [
+            {"name": "Lanskap Moyo", "image": "assets/images/Lanskap_TAMAN NASIONAL MOYO SATONDA.png"},
+            {"name": "Lanskap Seblat", "image": "assets/images/Lanskap_Seblat.png"},
+            {"name": "Lanskap Ulu Masen", "image": "assets/images/Lanskap_ulu_masen.png"}
+        ]
+    }
+}

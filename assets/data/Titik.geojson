@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Titik",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Wilayah": "Lanskap Ulu Masen", "Cakupan": "738.000 ha", "Signifikan": "Penangankaran Gajah", "Masalah_Ko": "deforestasi", "Peran": "memperkuat kawasan konservasi", "FOTO": "assets/images/foto/Margaasih_0.png" }, "geometry": { "type": "Point", "coordinates": [ 95.469964320880095, 5.0855919696493 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Wilayah": "Lanskap Seblat", "Cakupan": "sebagian Taman Nasional Kerinci Seblat", "Signifikan": "habitat Gajah Sumatra", "Masalah_Ko": "konversi lahan untuk perkebunan sawit", "Peran": "peningkatan pengelolaan taman nasional", "FOTO": "assets/images/foto/Margaasih_1.png" }, "geometry": { "type": "Point", "coordinates": [ 101.705785991018999, -3.13775616573639 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Wilayah": "Lanskap Moyo", "Cakupan": "350 km²", "Signifikan": "kawasan wisata yang eksklusif", "Masalah_Ko": "eksploitasi sumber daya laut", "Peran": "pengelolaan sumber daya alam secara berkelanjutan", "FOTO": "assets/images/foto/Margaasih_2.png" }, "geometry": { "type": "Point", "coordinates": [ 117.552238779196003, -8.2219368052462 ] } }
+]
+}
